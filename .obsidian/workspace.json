@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/README.md",
+                "file": "docs/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "index"
             }
           }
         ]
@@ -169,18 +169,25 @@
       "bases:Create new base": false
     }
   },
-  "active": "389388faef0194fb",
+  "active": "022a34cfb0e96038",
   "lastOpenFiles": [
-    "docs",
     "docs/README.md",
-    "docs/attachments/full_city_map.png",
-    "docs/attachments",
-    "New folder",
-    "full_city_map.png",
-    "Assets/City/full_city_map.png",
-    "Assets/City",
-    "Assets",
+    "docs/index.md",
     "docs/PCs/Nox.md",
-    "docs/PCs"
+    "site/search/search_index.json",
+    "site/PCs/Nox/index.html",
+    "site/PCs/Nox",
+    "site/PCs",
+    "site/index.html",
+    "site/sitemap.xml.gz",
+    "site/sitemap.xml",
+    "site/404.html",
+    "site/webfonts/fa-v4compatibility.woff2",
+    "site/webfonts/fa-v4compatibility.ttf",
+    "site/img/grid.png",
+    "site/attachments/full_city_map.png",
+    "docs/attachments/full_city_map.png",
+    "full_city_map.png",
+    "Assets/City/full_city_map.png"
   ]
 }
