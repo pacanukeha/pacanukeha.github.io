@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "docs/README.md",
                 "mode": "source",
                 "source": false
               },
@@ -169,17 +169,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "022a34cfb0e96038",
+  "active": "389388faef0194fb",
   "lastOpenFiles": [
-    "README.md",
-    "attachments/full_city_map.png",
-    "attachments",
+    "docs",
+    "docs/README.md",
+    "docs/attachments/full_city_map.png",
+    "docs/attachments",
     "New folder",
     "full_city_map.png",
     "Assets/City/full_city_map.png",
     "Assets/City",
     "Assets",
-    "PCs/Nox.md",
-    "PCs"
+    "docs/PCs/Nox.md",
+    "docs/PCs"
   ]
 }
