@@ -1,5 +1,5 @@
 in which we meet our heroes
-[Nox]
+[[Nox]]
 our villains
 Baddy McBadersons
 and our city
