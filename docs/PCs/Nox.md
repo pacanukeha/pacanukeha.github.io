@@ -1,4 +1,4 @@
-Human - Ranger - Gloomstalker - 1
+Human ‒ Ranger ‒ Gloomstalker ‒ 1
 
 Orphaned at a young age after a particularly cruel winter, Nox lived in the wilderness and outskirts of towns. He lived off the land and occasionally supplemented his meagre catch thru theft of minor items from farmers and travellers.  As he became older, perhaps in an effort to live a less solitary existence, Nox ventured into the local city ‒ Trolone. Nox has spent the last few seasons in the city living in the shadows, alleys, and rooftops of the slums.
 

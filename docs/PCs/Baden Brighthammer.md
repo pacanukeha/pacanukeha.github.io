@@ -1,0 +1,1 @@
+![[baden_brighthammer.png]]
